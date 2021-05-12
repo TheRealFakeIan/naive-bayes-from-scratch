@@ -10,7 +10,7 @@ A direct implementation using scikit-learn was included to verify the model's pe
 
 ## Dataset Description
 
-The data used to trained the model can be found in the folder **dataset** , which contains a set of features for each student used to predict the target variable **grade** 
+The data used to train the model can be found in the folder **dataset** containing a set of features for each student and their corresponding label **grade**  
 
 ## Compatibility
 
