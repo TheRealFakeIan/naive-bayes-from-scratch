@@ -17,4 +17,5 @@ The data used to train the model can be found in the folder **dataset** containi
 The libraries needed in this project are specified in the Jupyter Notebook, specifically:
 
 Python: 3.7.5
+
 Scikit-learn: 0.22
