@@ -8,6 +8,9 @@ This restriction is enforced to demonstrate a deeper understanding of the mathem
 
 A direct implementation using scikit-learn was included to verify the model's performance.
 
+## Dataset Description
+
+The data used to trained the model can be found in the folder **dataset** , which contains a set of features for each student used to predict the target variable **grade** 
 
 ## Compatibility
 
